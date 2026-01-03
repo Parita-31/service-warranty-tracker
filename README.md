@@ -83,16 +83,19 @@ This structure avoids redundancy, maintains clean relational integrity, and supp
 ---
 
 ## 📸 Screenshots
-(Add screenshots here)
 
 ### Login Page
 ![Login Page](screenshots/login.png)
+
 ### User Appliances Dashboard
 ![User Appliances](screenshots/user-appliances.png)
+
 ### User Service Requests
 ![User Services](screenshots/user-services.png)
+
 ### Admin Services Dashboard
 ![Admin Dashboard](screenshots/admin-dashboard.png)
+
 ### Resolved Service Locked State
 ![Service Locked](screenshots/service-locked.png)
 
