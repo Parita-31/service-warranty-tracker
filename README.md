@@ -133,12 +133,12 @@ npm start
 The application will start at http://localhost:3000.
 ---
 ## 📌 Future Enhancements
-
+```md
 Pagination for admin service requests
 Search and filtering by user or appliance
 Email reminders for warranty expiry
 Service analytics dashboard
-
+```
 ## 👩🏻‍💻 Author
 Parita Dave
 Information Technology Undergraduate
