@@ -56,7 +56,7 @@ users
 └── appliances
     └── service_requests
         └── service_logs
-
+```
 
 ### Table Overview
 - **users** – Stores user credentials and roles (user/admin)
