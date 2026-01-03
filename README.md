@@ -114,13 +114,14 @@ npm install
 npm run dev
 
 Create a .env file inside the server folder with the following:
+```md
 PORT=5000
 DB_HOST=localhost
 DB_USER=your_db_user
 DB_PASSWORD=your_db_password
 DB_NAME=service_warranty_tracker
 JWT_SECRET=your_secret_key
-
+```
 
 ### 3️⃣ Frontend Setup
 
@@ -141,4 +142,4 @@ Service analytics dashboard
 ```
 ## 👩🏻‍💻 Author
 Parita Dave
-Information Technology Undergraduate
+-Information Technology Undergraduate
